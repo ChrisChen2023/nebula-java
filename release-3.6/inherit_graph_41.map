@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,170,147,197"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1TException.html" title="Generic exception class for Thrift." alt="" coords="229,78,455,105"/>
+<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1exception_1_1InvalidConfigException.html" title=" " alt="" coords="195,129,489,171"/>
+<area shape="rect" id="node8" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1exception_1_1InvalidSessionException.html" title=" " alt="" coords="195,195,489,236"/>
+<area shape="rect" id="node9" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1exception_1_1InvalidValueException.html" title=" " alt="" coords="195,260,489,301"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1TApplicationException.html" title="Application level exception." alt="" coords="537,5,771,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolException.html" title="Protocol exceptions." alt="" coords="549,71,759,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransportException.html" title="Transport exceptions." alt="" coords="546,136,762,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1THeaderException.html" title="Application level exception." alt="" coords="819,136,1035,177"/>
+</map>

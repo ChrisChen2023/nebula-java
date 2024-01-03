@@ -1,0 +1,7 @@
+<map id="com.facebook.thrift.transport.TTransport.flush" name="com.facebook.thrift.transport.TTransport.flush">
+<area shape="rect" id="node1" title="Flush any pending data out of a transport buffer." alt="" coords="588,71,804,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TFramedTransport.html#adff94beef1195af5726eff64ecabc415" title="Flush any pending data out of a transport buffer." alt="" coords="318,5,534,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1THeaderProtocol.html#a9daf95c01118ac247d0c7309539fb923" title="Reading methods." alt="" coords="312,71,540,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html#a608bd5c4ef25620533361912067a55fd" title="Flush any pending data out of a transport buffer for a oneway call." alt="" coords="318,136,534,177"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1THeaderProtocol.html#a31f1a5953a28632718ab4d61eabeb789" title="Reading methods." alt="" coords="5,71,264,112"/>
+</map>

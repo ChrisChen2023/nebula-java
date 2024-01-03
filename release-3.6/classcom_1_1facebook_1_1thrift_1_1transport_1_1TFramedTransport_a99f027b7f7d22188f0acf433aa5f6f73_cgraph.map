@@ -1,0 +1,6 @@
+<map id="com.facebook.thrift.transport.TFramedTransport.read" name="com.facebook.thrift.transport.TFramedTransport.read">
+<area shape="rect" id="node1" title="Reads up to len bytes into buffer buf, starting att offset off." alt="" coords="5,43,221,84"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html#ab41fe1c09e2337caf296e1611669e7a4" title="Reads up to len bytes into buffer buf, starting att offset off." alt="" coords="269,43,485,84"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html#ae33d84c29862a1c9121ca53814c4d8d3" title="Consume len bytes from the underlying buffer." alt="" coords="549,5,827,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html#ac13badf667107790e3c1991281bb20f0" title="Get the number of bytes remaining in the underlying buffer." alt="" coords="533,71,843,127"/>
+</map>

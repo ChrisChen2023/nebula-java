@@ -1,0 +1,7 @@
+<map id="com.vesoft.nebula.meta.UpdateSessionsReq.read" name="com.vesoft.nebula.meta.UpdateSessionsReq.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,92,236,133"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1Session.html#a89fe3d42e170b9b2a4a647e8c44ebcda" title="Reads the TObject from the given input protocol." alt="" coords="284,74,551,101"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="875,71,1086,112"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1QueryDesc.html#ad702029487116fc584a966d5ab4e8765" title="Reads the TObject from the given input protocol." alt="" coords="599,8,821,49"/>
+<area shape="rect" id="node4" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1QueryStatus.html#a4dc949a4341603efb8db3b6af8c5cac4" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="869,5,1092,47"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.facebook.thrift.protocol.TJSONProtocolBase.getTypeIDForPeekedByte" name="com.facebook.thrift.protocol.TJSONProtocolBase.getTypeIDForPeekedByte">
+<area shape="rect" id="node1" title="Given a byte, peeked from the beginning of some JSON value, determine a type of that value." alt="" coords="319,39,632,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactJSONProtocol.html#ac960fda234d27c7ed4a34702ed6aacad" title="Returned TList may have size of &#45;1, expecting the user to peek into the list, one element at a time,..." alt="" coords="5,5,271,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactJSONProtocol.html#af97dc460ae01b1b824773eb2508c1370" title="Returned TSet may have size of &#45;1, expecting the user to peek into the set, one element at a time,..." alt="" coords="7,71,269,112"/>
+</map>

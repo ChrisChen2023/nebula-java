@@ -1,0 +1,5 @@
+<map id="GetStateResponse.write" name="GetStateResponse.write">
+<area shape="rect" id="node1" title="Writes the objects out to the protocol." alt="" coords="5,31,184,57"/>
+<area shape="rect" id="node2" href="$enumRole.html#a3dd272f41429298c623b290ed57de7b2" title="Get the integer value of this enum value, as defined in the Thrift IDL." alt="" coords="238,5,350,32"/>
+<area shape="rect" id="node3" href="$enumStatus.html#a8666eddd338f5c373a8c4bc7d494a949" title="Get the integer value of this enum value, as defined in the Thrift IDL." alt="" coords="232,56,356,83"/>
+</map>

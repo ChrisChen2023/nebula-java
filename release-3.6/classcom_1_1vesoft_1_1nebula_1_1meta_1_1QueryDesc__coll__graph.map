@@ -1,0 +1,13 @@
+<map id="com.vesoft.nebula.meta.QueryDesc" name="com.vesoft.nebula.meta.QueryDesc">
+<area shape="rect" id="node1" title=" " alt="" coords="876,193,1131,220"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="171,185,365,212"/>
+<area shape="rect" id="node10" href="$classcom_1_1vesoft_1_1nebula_1_1HostAddr.html" title=" " alt="" coords="536,132,743,159"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,185,104,212"/>
+<area shape="rect" id="node4" title=" " alt="" coords="195,68,341,95"/>
+<area shape="rect" id="node5" title=" " alt="" coords="225,5,311,32"/>
+<area shape="rect" id="node6" title=" " alt="" coords="538,333,741,360"/>
+<area shape="rect" id="node7" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1QueryStatus.html" title=" " alt="" coords="528,385,751,426"/>
+<area shape="rect" id="node8" href="$interfacecom_1_1facebook_1_1thrift_1_1TEnum.html" title=" " alt="" coords="169,392,367,419"/>
+<area shape="rect" id="node9" title=" " alt="" coords="153,249,383,276"/>
+<area shape="rect" id="node11" title=" " alt="" coords="173,127,363,153"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.facebook.thrift.transport.TFramedTransport.getBuffer" name="com.facebook.thrift.transport.TFramedTransport.getBuffer">
+<area shape="rect" id="node1" title="Access the protocol&#39;s underlying buffer directly." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html#a1b1ed55d56edf9e8cc0fe78c1c84dc2c" title="Access the protocol&#39;s underlying buffer directly." alt="" coords="269,5,511,47"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.Row.read" name="com.vesoft.nebula.Row.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="284,5,491,32"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a780fa91b31f12fbd8095bbf4dfff86dd" title="Reads the TObject from the given input protocol." alt="" coords="5,5,236,32"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="com.vesoft.nebula.client.storage.StorageClient.scanEdge" name="com.vesoft.nebula.client.storage.StorageClient.scanEdge">
+<area shape="rect" id="node1" title="scan edge of all parts with no return cols and limit, start time, end time, if allow partial success,..." alt="" coords="5,39,244,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#af00cf358ab1c7bf7d02c1462e92ef13c" title="get all parts of one space" alt="" coords="299,5,523,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a8292a37d7a08796eaa4ed6fd8245f01b" title="scan edge of all parts with return cols." alt="" coords="292,71,531,112"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#a88b07f765435b58078323a51634d096b" title="get all parts alloc of one space" alt="" coords="579,5,803,47"/>
+</map>

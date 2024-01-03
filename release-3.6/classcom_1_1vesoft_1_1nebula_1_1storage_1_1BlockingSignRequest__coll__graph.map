@@ -1,0 +1,12 @@
+<map id="com.vesoft.nebula.storage.BlockingSignRequest" name="com.vesoft.nebula.storage.BlockingSignRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="628,158,827,199"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="271,5,465,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,154,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="295,56,441,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="325,107,411,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="268,158,468,199"/>
+<area shape="rect" id="node7" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1EngineSignType.html" title=" " alt="" coords="269,223,467,265"/>
+<area shape="rect" id="node8" href="$interfacecom_1_1facebook_1_1thrift_1_1TEnum.html" title=" " alt="" coords="5,231,204,257"/>
+<area shape="rect" id="node9" title=" " alt="" coords="253,289,483,316"/>
+<area shape="rect" id="node10" title=" " alt="" coords="307,340,429,367"/>
+</map>

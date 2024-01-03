@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.client.storage.scan.ScanVertexResult.getVertexTableRows" name="com.vesoft.nebula.client.storage.scan.ScanVertexResult.getVertexTableRows">
+<area shape="rect" id="node1" title="get vertex table rows" alt="" coords="296,5,569,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1examples_1_1StorageClientExample.html#ac9cc866712cc6de0e7bffedf8775b7e2" title="Vertex Person&#39;s property in Nebula Graph: first_name, last_name, gender, birthday Tom Li 男 2010." alt="" coords="5,5,248,47"/>
+</map>

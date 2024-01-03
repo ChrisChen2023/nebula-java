@@ -1,0 +1,4 @@
+<map id="com.facebook.thrift.transport.TTransport.readAll" name="com.facebook.thrift.transport.TTransport.readAll">
+<area shape="rect" id="node1" title="Guarantees that all of len bytes are actually read off the transport." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html#abaf2c0f86cd64a4e3bd76b0e98d1f5db" title="Reads up to len bytes into buffer buf, starting att offset off." alt="" coords="269,5,485,47"/>
+</map>

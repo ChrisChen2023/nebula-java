@@ -1,0 +1,12 @@
+<map id="com.vesoft.nebula.storage.IndexColumnHint" name="com.vesoft.nebula.storage.IndexColumnHint">
+<area shape="rect" id="node1" title=" " alt="" coords="711,117,909,158"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="383,5,576,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="71,5,169,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="406,56,553,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="436,107,523,133"/>
+<area shape="rect" id="node6" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1ScanType.html" title=" " alt="" coords="380,158,579,199"/>
+<area shape="rect" id="node7" href="$interfacecom_1_1facebook_1_1thrift_1_1TEnum.html" title=" " alt="" coords="21,165,219,192"/>
+<area shape="rect" id="node8" title=" " alt="" coords="5,239,235,265"/>
+<area shape="rect" id="node9" href="$classcom_1_1vesoft_1_1nebula_1_1Value.html" title=" " alt="" coords="388,287,571,313"/>
+<area shape="rect" id="node10" title=" " alt="" coords="53,304,187,331"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="com.vesoft.nebula.storage.StopTaskResp" name="com.vesoft.nebula.storage.StopTaskResp">
+<area shape="rect" id="node1" title=" " alt="" coords="628,125,827,166"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="271,5,465,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,154,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="295,56,441,83"/>
+<area shape="rect" id="node5" title=" " alt="" coords="325,107,411,133"/>
+<area shape="rect" id="node6" title=" " alt="" coords="257,157,479,184"/>
+<area shape="rect" id="node7" title=" " alt="" coords="253,208,483,235"/>
+<area shape="rect" id="node8" href="$enumcom_1_1vesoft_1_1nebula_1_1ErrorCode.html" title=" " alt="" coords="263,259,473,285"/>
+<area shape="rect" id="node9" href="$interfacecom_1_1facebook_1_1thrift_1_1TEnum.html" title=" " alt="" coords="5,259,204,285"/>
+</map>

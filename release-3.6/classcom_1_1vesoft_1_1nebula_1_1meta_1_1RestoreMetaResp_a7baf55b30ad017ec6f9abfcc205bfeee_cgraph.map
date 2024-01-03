@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.meta.RestoreMetaResp.read" name="com.vesoft.nebula.meta.RestoreMetaResp.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,35,240,76"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1PartInfo.html#a14c9fe2c2c3b3d6437288b66fd6fcfaa" title="Reads the TObject from the given input protocol." alt="" coords="288,5,497,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="545,35,756,76"/>
+</map>

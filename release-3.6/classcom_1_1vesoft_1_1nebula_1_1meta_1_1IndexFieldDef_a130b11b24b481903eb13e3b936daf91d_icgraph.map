@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.meta.IndexFieldDef.read" name="com.vesoft.nebula.meta.IndexFieldDef.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="280,39,500,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1CreateEdgeIndexReq.html#a04d07375d35945f75896fd59c3e0bde8" title="Reads the TObject from the given input protocol." alt="" coords="5,5,232,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1CreateTagIndexReq.html#ac6bdbc6dc338fc9d093c25595f1fc5f9" title="Reads the TObject from the given input protocol." alt="" coords="5,71,232,112"/>
+</map>

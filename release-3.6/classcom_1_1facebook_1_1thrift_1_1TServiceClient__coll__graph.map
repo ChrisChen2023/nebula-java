@@ -1,0 +1,6 @@
+<map id="com.facebook.thrift.TServiceClient" name="com.facebook.thrift.TServiceClient">
+<area shape="rect" id="node1" title="A TServiceClient is used to communicate with a TService implementation across protocols and transport..." alt="" coords="25,228,235,269"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TClientIf.html" title=" " alt="" coords="5,117,212,143"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html" title="Protocol interface definition." alt="" coords="237,109,447,151"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="234,5,450,47"/>
+</map>

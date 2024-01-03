@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.IsolationLevel.findByValue" name="com.vesoft.nebula.meta.IsolationLevel.findByValue">
+<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="276,5,516,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1SpaceDesc.html#a24ba9eca5e948501cac18c895c8130f1" title="Reads the TObject from the given input protocol." alt="" coords="5,5,228,47"/>
+</map>

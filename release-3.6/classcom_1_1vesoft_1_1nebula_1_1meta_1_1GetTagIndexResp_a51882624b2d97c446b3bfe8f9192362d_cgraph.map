@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.GetTagIndexResp.read" name="com.vesoft.nebula.meta.GetTagIndexResp.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,5,212,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="260,5,471,47"/>
+</map>

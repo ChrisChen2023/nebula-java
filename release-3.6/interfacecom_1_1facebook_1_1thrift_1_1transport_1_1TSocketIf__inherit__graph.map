@@ -1,0 +1,5 @@
+<map id="com.facebook.thrift.transport.TSocketIf" name="com.facebook.thrift.transport.TSocketIf">
+<area shape="rect" id="node1" title=" " alt="" coords="5,39,221,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TNonblockingSocket.html" title="Socket implementation of the TTransport interface." alt="" coords="269,5,485,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TSocket.html" title="Socket implementation of the TTransport interface." alt="" coords="269,71,485,112"/>
+</map>

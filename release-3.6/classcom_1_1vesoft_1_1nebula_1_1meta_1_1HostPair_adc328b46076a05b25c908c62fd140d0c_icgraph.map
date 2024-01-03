@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.HostPair.read" name="com.vesoft.nebula.meta.HostPair.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="288,5,503,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1RestoreMetaReq.html#a2931b8d27f41cfbd6eaaeba8fc2750c8" title="Reads the TObject from the given input protocol." alt="" coords="5,5,240,47"/>
+</map>
