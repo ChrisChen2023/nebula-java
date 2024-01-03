@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.storage.EdgeDirection.findByValue" name="com.vesoft.nebula.storage.EdgeDirection.findByValue">
+<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1TraverseSpec.html#a46de7d6e5371e84048ebe19ad5aad3dd" title="Reads the TObject from the given input protocol." alt="" coords="5,5,204,47"/>
+</map>

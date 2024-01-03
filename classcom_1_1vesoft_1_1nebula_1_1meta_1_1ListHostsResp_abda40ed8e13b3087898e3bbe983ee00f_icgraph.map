@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.meta.ListHostsResp.getCode" name="com.vesoft.nebula.meta.ListHostsResp.getCode">
+<area shape="rect" id="node1" title=" " alt="" coords="549,5,756,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a0687697395c0faf4e017dae4a01fa82b" title="get all Storaged servers" alt="" coords="277,5,501,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#ab8ff7905aaf0b927868e285a2dda6723" title="get all storage addresses" alt="" coords="5,5,229,47"/>
+</map>

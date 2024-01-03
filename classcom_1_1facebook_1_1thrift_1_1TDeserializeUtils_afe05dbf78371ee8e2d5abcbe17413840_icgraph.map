@@ -1,0 +1,5 @@
+<map id="com.facebook.thrift.TDeserializeUtils.protocolFromByteArray" name="com.facebook.thrift.TDeserializeUtils.protocolFromByteArray">
+<area shape="rect" id="node1" title="Get a protocol for deserializing a Thrift object from a byte array." alt="" coords="288,39,523,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1TDeserializeUtils.html#afb7b3cd63cf52768032a0fcd9203ab77" title="Get a protocol for deserializing a Thrift object from a byte buffer." alt="" coords="5,5,240,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1TDeserializeUtils.html#a662ef7d7003063ee69294067c91c1e3a" title="Get a protocol for deserializing a Thrift object from a Java string, using a specified character set ..." alt="" coords="5,71,240,112"/>
+</map>

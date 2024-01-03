@@ -1,0 +1,5 @@
+<map id="com.facebook.thrift.meta_data.FieldMetaData" name="com.facebook.thrift.meta_data.FieldMetaData">
+<area shape="rect" id="node1" title="This class is used to store meta data about thrift fields." alt="" coords="5,185,192,227"/>
+<area shape="rect" id="node2" title=" " alt="" coords="20,5,167,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1meta__data_1_1FieldValueMetaData.html" title="FieldValueMetaData and collection of subclasses to store metadata about the value(s) of a field." alt="" coords="115,81,309,123"/>
+</map>

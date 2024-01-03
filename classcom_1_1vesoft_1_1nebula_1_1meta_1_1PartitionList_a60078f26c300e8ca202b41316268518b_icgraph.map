@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.PartitionList.read" name="com.vesoft.nebula.meta.PartitionList.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="315,5,553,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1HBReq.html#a7f90582aa12811002b94ddd75d027697" title="Reads the TObject from the given input protocol." alt="" coords="5,13,267,39"/>
+</map>

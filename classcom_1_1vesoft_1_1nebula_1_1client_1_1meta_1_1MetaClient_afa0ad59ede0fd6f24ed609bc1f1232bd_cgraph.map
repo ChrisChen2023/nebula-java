@@ -1,0 +1,6 @@
+<map id="com.vesoft.nebula.client.meta.MetaClient.getTag" name="com.vesoft.nebula.client.meta.MetaClient.getTag">
+<area shape="rect" id="node1" title="get schema of specific tag" alt="" coords="5,39,229,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1GetTagResp.html#a26087414824c7c45ebc622d2b3b408a8" title=" " alt="" coords="286,5,493,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a0a09183b41bf2ca2e35f11a33f3cc760" title="get one space" alt="" coords="277,71,501,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1GetSpaceResp.html#a9ee65dd9188a7209037cdcdeecd539e9" title=" " alt="" coords="549,71,756,112"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.client.graph.data.ResultSet.getErrorCode" name="com.vesoft.nebula.client.graph.data.ResultSet.getErrorCode">
+<area shape="rect" id="node1" title="get errorCode of execute result" alt="" coords="5,5,265,47"/>
+<area shape="rect" id="node2" href="$enumcom_1_1vesoft_1_1nebula_1_1ErrorCode.html#a4890e572255254f4a26213036fd55f4b" title="Get the integer value of this enum value, as defined in the Thrift IDL." alt="" coords="313,5,548,47"/>
+</map>

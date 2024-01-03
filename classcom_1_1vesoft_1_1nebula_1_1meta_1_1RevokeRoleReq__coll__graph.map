@@ -1,0 +1,13 @@
+<map id="com.vesoft.nebula.meta.RevokeRoleReq" name="com.vesoft.nebula.meta.RevokeRoleReq">
+<area shape="rect" id="node1" title=" " alt="" coords="999,159,1231,201"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="278,5,471,32"/>
+<area shape="rect" id="node8" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1RoleItem.html" title=" " alt="" coords="641,243,884,269"/>
+<area shape="rect" id="node3" title=" " alt="" coords="55,5,154,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="301,147,448,173"/>
+<area shape="rect" id="node5" title=" " alt="" coords="331,69,418,96"/>
+<area shape="rect" id="node6" title=" " alt="" coords="646,192,879,219"/>
+<area shape="rect" id="node7" title=" " alt="" coords="260,317,489,344"/>
+<area shape="rect" id="node9" title=" " alt="" coords="279,253,470,280"/>
+<area shape="rect" id="node10" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1RoleType.html" title=" " alt="" coords="253,203,496,229"/>
+<area shape="rect" id="node11" href="$interfacecom_1_1facebook_1_1thrift_1_1TEnum.html" title=" " alt="" coords="5,203,204,229"/>
+</map>

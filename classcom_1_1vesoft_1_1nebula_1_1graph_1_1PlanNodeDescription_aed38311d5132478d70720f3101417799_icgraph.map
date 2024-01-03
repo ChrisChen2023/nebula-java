@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.graph.PlanNodeDescription.read" name="com.vesoft.nebula.graph.PlanNodeDescription.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="240,5,431,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1graph_1_1PlanDescription.html#a22e4b992a9dfd27efa515e6233ce822e" title="Reads the TObject from the given input protocol." alt="" coords="5,5,192,47"/>
+</map>

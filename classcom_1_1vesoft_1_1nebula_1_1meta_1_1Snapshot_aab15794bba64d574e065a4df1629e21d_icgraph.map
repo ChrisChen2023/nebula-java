@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.Snapshot.read" name="com.vesoft.nebula.meta.Snapshot.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="260,13,537,39"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListSnapshotsResp.html#a7aa1cf2570a41c1fb06b02da034e46f7" title="Reads the TObject from the given input protocol." alt="" coords="5,5,212,47"/>
+</map>

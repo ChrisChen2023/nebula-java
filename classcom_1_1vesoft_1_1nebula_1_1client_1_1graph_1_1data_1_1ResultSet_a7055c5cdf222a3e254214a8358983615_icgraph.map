@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.client.graph.data.ResultSet.getErrorCode" name="com.vesoft.nebula.client.graph.data.ResultSet.getErrorCode">
+<area shape="rect" id="node1" title="get errorCode of execute result" alt="" coords="633,35,893,76"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1SessionPool.html#a98cd58ba8eb81be173d707ccf9051d7c" title="Execute the nGql sentence." alt="" coords="359,5,585,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1TestSessionPool.html#a493ede14a324e312cef95d41535262c9" title="for restart stroaged, large the interval time for retry." alt="" coords="5,35,311,76"/>
+</map>

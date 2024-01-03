@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.client.storage.StorageClient.scanEdge" name="com.vesoft.nebula.client.storage.StorageClient.scanEdge">
+<area shape="rect" id="node1" title="scan edge of all parts with return cols." alt="" coords="292,39,531,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1examples_1_1StorageClientExample.html#a9a90413a59c0868850765f3673c84cba" title="Edge Friend&#39;s property in Nebula Graph: degree 1.0." alt="" coords="8,5,241,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#aa015e80545d7a6b5bf3de8cd7ca73776" title="scan edge of specific part with return cols." alt="" coords="5,71,244,112"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.vesoft.nebula.meta.GetSpaceResp.getCode" name="com.vesoft.nebula.meta.GetSpaceResp.getCode">
+<area shape="rect" id="node1" title=" " alt="" coords="549,136,756,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a0a09183b41bf2ca2e35f11a33f3cc760" title="get one space" alt="" coords="277,136,501,177"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a439aa9dd2daf7254bd30538550353713" title="get schema of specific edgeRow" alt="" coords="5,5,229,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a744dba080c703136f8a98f9c8a24b7f6" title="get all edges of specific space" alt="" coords="5,71,229,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a18dda7461aa872fdb861d20c2b76d22c" title="Get all parts and the address in a space Store in this.parts." alt="" coords="5,136,229,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#afa0ad59ede0fd6f24ed609bc1f1232bd" title="get schema of specific tag" alt="" coords="5,201,229,243"/>
+<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a258cebcf9e4a47f897b14e0a67f87a19" title="get all tags of spaceName" alt="" coords="5,267,229,308"/>
+</map>

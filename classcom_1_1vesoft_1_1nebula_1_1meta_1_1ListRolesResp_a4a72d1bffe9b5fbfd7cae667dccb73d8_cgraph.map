@@ -1,0 +1,6 @@
+<map id="com.vesoft.nebula.meta.ListRolesResp.read" name="com.vesoft.nebula.meta.ListRolesResp.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,41,212,83"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1RoleItem.html#a8a5180022db30fe64dcc4203c54b60e7" title="Reads the TObject from the given input protocol." alt="" coords="260,12,473,53"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="523,71,733,112"/>
+<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1RoleType.html#a29fca8ceec12482d91e01da9f2945418" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="521,5,735,47"/>
+</map>

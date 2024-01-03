@@ -1,0 +1,12 @@
+<map id="com.vesoft.nebula.storage.TraverseSpec.read" name="com.vesoft.nebula.storage.TraverseSpec.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,188,204,229"/>
+<area shape="rect" id="node2" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1EdgeDirection.html#abad2f5c8dbeb2a29fa9ff6242ab0c7d9" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1EdgeProp.html#ab6efedc8a061ceb18c051be40b825432" title="Reads the TObject from the given input protocol." alt="" coords="252,188,451,229"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="499,221,709,263"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1Expr.html#ab5b6d0a3fbce97a482ea38ee1be53e7f" title="Reads the TObject from the given input protocol." alt="" coords="252,253,451,295"/>
+<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1OrderBy.html#a3b90411d1f140ec87aa8f2c8e6037186" title="Reads the TObject from the given input protocol." alt="" coords="252,319,451,360"/>
+<area shape="rect" id="node8" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1StatProp.html#ac8e4d2fa29a94849cf0e7d63dee3815e" title="Reads the TObject from the given input protocol." alt="" coords="252,384,451,425"/>
+<area shape="rect" id="node10" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1VertexProp.html#a15714431d43ffb474c36fded8fcb8bdd" title="Reads the TObject from the given input protocol." alt="" coords="252,71,451,112"/>
+<area shape="rect" id="node7" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1OrderDirection.html#a200fb79d8bd32f58ff84580ea650d227" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="505,319,703,360"/>
+<area shape="rect" id="node9" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1StatType.html#a096538bdd8bcca5cc781923dc57c7f38" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="505,384,703,425"/>
+</map>

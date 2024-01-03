@@ -1,0 +1,7 @@
+<map id="com.vesoft.nebula.client.graph.SessionPool.execute" name="com.vesoft.nebula.client.graph.SessionPool.execute">
+<area shape="rect" id="node1" title="Execute the nGql sentence." alt="" coords="5,71,232,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#a7055c5cdf222a3e254214a8358983615" title="get errorCode of execute result" alt="" coords="280,5,540,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#a1252034f5423a5241ea229d03c27061e" title="get the error message of the execute result" alt="" coords="280,71,540,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#a6186216b0d2dda26f9aecd51c05cea81" title="the execute result is succeeded" alt="" coords="280,136,540,177"/>
+<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1ErrorCode.html#a4890e572255254f4a26213036fd55f4b" title="Get the integer value of this enum value, as defined in the Thrift IDL." alt="" coords="588,5,823,47"/>
+</map>

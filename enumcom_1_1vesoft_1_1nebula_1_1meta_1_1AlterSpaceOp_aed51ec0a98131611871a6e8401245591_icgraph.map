@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.AlterSpaceOp.findByValue" name="com.vesoft.nebula.meta.AlterSpaceOp.findByValue">
+<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="268,5,483,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterSpaceReq.html#a384a3888985026e529ceeb67939d8bb5" title="Reads the TObject from the given input protocol." alt="" coords="5,5,220,47"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="com.vesoft.nebula.meta.AdminJobResult.read" name="com.vesoft.nebula.meta.AdminJobResult.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,107,232,148"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1JobDesc.html#a6a981cd7b5e6468372376e851eba7f03" title="Reads the TObject from the given input protocol." alt="" coords="285,41,489,83"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="541,136,752,177"/>
+<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1TaskDesc.html#a7c70859f07cb06333b1bdfba59286b75" title="Reads the TObject from the given input protocol." alt="" coords="280,107,493,148"/>
+<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1JobStatus.html#aac9e7f56dadd6a6b69307a631268efcb" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="545,71,749,112"/>
+<area shape="rect" id="node4" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1JobType.html#a94eee5e3fd7492ac9c9a99d3f7e8921e" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="545,5,749,47"/>
+</map>

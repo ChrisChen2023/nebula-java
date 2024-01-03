@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.TaskDesc.read" name="com.vesoft.nebula.meta.TaskDesc.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="280,5,493,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AdminJobResult.html#a6b1972e5b868fa27805c4f662ea1caaa" title="Reads the TObject from the given input protocol." alt="" coords="5,5,232,47"/>
+</map>
