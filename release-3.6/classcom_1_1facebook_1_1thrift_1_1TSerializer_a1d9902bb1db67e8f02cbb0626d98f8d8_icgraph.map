@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.TSerializer.serialize" name="com.facebook.thrift.TSerializer.serialize">
-<area shape="rect" id="node1" title="Serialize the Thrift object into a byte array." alt="" coords="292,13,572,39"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1TSerializer.html#a6952387e190fbb3382921c8f29227aa4" title="Serialize the Thrift object into a Java string, using a specified character set for encoding." alt="" coords="5,5,244,47"/>
-</map>

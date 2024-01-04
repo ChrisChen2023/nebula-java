@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.protocol.TProtocol" name="com.facebook.thrift.protocol.TProtocol">
-<area shape="rect" id="node1" title="Protocol interface definition." alt="" coords="8,109,219,151"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,5,221,47"/>
-</map>

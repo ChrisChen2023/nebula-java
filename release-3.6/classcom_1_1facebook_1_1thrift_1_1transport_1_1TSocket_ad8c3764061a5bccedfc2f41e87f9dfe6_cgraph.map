@@ -1,5 +1,0 @@
-<map id="com.facebook.thrift.transport.TSocket.TSocket" name="com.facebook.thrift.transport.TSocket.TSocket">
-<area shape="rect" id="node1" title="Constructor that takes an already created socket that comes alone with timeout and connectionTimeout." alt="" coords="5,39,221,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TSocket.html#ab274652a6b92c2304d33fbfd5658d2d1" title="Closes the socket." alt="" coords="269,5,485,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TSocket.html#a763f9cff50b3b4b75b5e67d2c1460859" title="Checks whether the socket is connected." alt="" coords="269,71,485,112"/>
-</map>

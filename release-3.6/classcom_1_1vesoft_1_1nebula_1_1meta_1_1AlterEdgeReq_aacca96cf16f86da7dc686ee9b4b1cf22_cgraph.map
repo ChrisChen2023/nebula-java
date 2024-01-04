@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.meta.AlterEdgeReq.read" name="com.vesoft.nebula.meta.AlterEdgeReq.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,41,220,83"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterSchemaItem.html#ac0fc766649b5a1804cc9b89a7ad1514b" title="Reads the TObject from the given input protocol." alt="" coords="268,12,483,53"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="533,71,743,112"/>
-<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterSchemaOp.html#af497e2bab97cbba00768454335f0ead5" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="531,5,745,47"/>
-</map>

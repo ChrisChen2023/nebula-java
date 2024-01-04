@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.TDeserializeUtils.protocolFromByteBuffer" name="com.facebook.thrift.TDeserializeUtils.protocolFromByteBuffer">
-<area shape="rect" id="node1" title="Get a protocol for deserializing a Thrift object from a byte buffer." alt="" coords="5,5,240,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1TDeserializeUtils.html#afe05dbf78371ee8e2d5abcbe17413840" title="Get a protocol for deserializing a Thrift object from a byte array." alt="" coords="288,5,523,47"/>
-</map>

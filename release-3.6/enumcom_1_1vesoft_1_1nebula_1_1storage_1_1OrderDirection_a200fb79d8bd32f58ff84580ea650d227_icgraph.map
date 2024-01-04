@@ -1,7 +1,0 @@
-<map id="com.vesoft.nebula.storage.OrderDirection.findByValue" name="com.vesoft.nebula.storage.OrderDirection.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="499,71,697,112"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1OrderBy.html#a3b90411d1f140ec87aa8f2c8e6037186" title="Reads the TObject from the given input protocol." alt="" coords="252,71,451,112"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1GetPropRequest.html#abf8c3867959f6ea205ed969e555f3bd7" title="Reads the TObject from the given input protocol." alt="" coords="5,5,204,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1LookupIndexRequest.html#a40cf126434e42a2b502ba83d6e197af6" title="Reads the TObject from the given input protocol." alt="" coords="5,71,204,112"/>
-<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1TraverseSpec.html#a46de7d6e5371e84048ebe19ad5aad3dd" title="Reads the TObject from the given input protocol." alt="" coords="5,136,204,177"/>
-</map>

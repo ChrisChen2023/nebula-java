@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.meta.AlterSchemaOp.findByValue" name="com.vesoft.nebula.meta.AlterSchemaOp.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="531,39,745,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterSchemaItem.html#ac0fc766649b5a1804cc9b89a7ad1514b" title="Reads the TObject from the given input protocol." alt="" coords="268,39,483,80"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterEdgeReq.html#aacca96cf16f86da7dc686ee9b4b1cf22" title="Reads the TObject from the given input protocol." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterTagReq.html#ac7de1fa1d71ea7e471257b0ace7952e5" title="Reads the TObject from the given input protocol." alt="" coords="5,71,220,112"/>
-</map>

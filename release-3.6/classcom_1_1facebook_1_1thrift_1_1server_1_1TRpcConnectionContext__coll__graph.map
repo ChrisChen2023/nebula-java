@@ -1,6 +1,0 @@
-<map id="com.facebook.thrift.server.TRpcConnectionContext" name="com.facebook.thrift.server.TRpcConnectionContext">
-<area shape="rect" id="node1" title="Generic interface for a Thrift server." alt="" coords="923,7,1120,49"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1TConnectionContext.html" title="Generic Thrift server connection context." alt="" coords="676,37,873,78"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html" title="Protocol interface definition." alt="" coords="315,37,525,78"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,7,221,49"/>
-</map>

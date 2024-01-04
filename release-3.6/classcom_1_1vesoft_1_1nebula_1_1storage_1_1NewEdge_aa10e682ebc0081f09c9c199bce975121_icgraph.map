@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.storage.NewEdge.read" name="com.vesoft.nebula.storage.NewEdge.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="263,39,461,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1AddEdgesRequest.html#af705088b2225188bc1258de3e860d2b5" title="Reads the TObject from the given input protocol." alt="" coords="11,5,209,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1ChainAddEdgesRequest.html#aa4f3b5a571f67d95e8b4231f2cb2a0d6" title="Reads the TObject from the given input protocol." alt="" coords="5,71,215,112"/>
-</map>

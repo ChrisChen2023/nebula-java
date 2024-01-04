@@ -1,5 +1,0 @@
-<map id="com.facebook.thrift.transport.TNonblockingServerSocket" name="com.facebook.thrift.transport.TNonblockingServerSocket">
-<area shape="rect" id="node1" title="Wrapper around ServerSocketChannel." alt="" coords="5,184,221,225"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TNonblockingServerTransport.html" title="Server transport that can be operated in a nonblocking fashion." alt="" coords="5,95,221,136"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TServerTransport.html" title="Server transport." alt="" coords="5,5,221,47"/>
-</map>

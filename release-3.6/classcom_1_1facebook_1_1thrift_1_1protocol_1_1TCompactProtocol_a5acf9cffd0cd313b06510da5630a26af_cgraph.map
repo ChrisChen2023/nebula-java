@@ -1,5 +1,0 @@
-<map id="com.facebook.thrift.protocol.TCompactProtocol.writeMessageBegin" name="com.facebook.thrift.protocol.TCompactProtocol.writeMessageBegin">
-<area shape="rect" id="node1" title="Write a message header to the wire." alt="" coords="5,5,277,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#aa13b5dcbafbfe03838123b35c6da058c" title="Write a string to the wire with a varint size preceding." alt="" coords="325,5,540,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a51752579536ff4b5407bc6132e367b6b" title="Write a byte array, using a varint for the size." alt="" coords="588,5,807,47"/>
-</map>

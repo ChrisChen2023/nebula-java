@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.CheckpointInfo.read" name="com.vesoft.nebula.CheckpointInfo.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,23,224,65"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1LogInfo.html#a3eaf681be9b9ef57ea119f6b8be378ab" title="Reads the TObject from the given input protocol." alt="" coords="272,5,499,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="547,23,757,65"/>
-</map>

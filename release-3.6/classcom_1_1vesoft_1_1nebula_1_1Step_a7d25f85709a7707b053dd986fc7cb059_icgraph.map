@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.Step.read" name="com.vesoft.nebula.Step.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="260,5,468,32"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1Path.html#a1e65aa763aa7fcd43078125268d40b31" title="Reads the TObject from the given input protocol." alt="" coords="5,5,212,32"/>
-</map>

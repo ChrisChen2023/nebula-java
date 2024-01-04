@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.storage.DelTags.read" name="com.vesoft.nebula.storage.DelTags.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="252,5,451,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1DeleteTagsRequest.html#af9896da9f0d018c01956245121622cc7" title="Reads the TObject from the given input protocol." alt="" coords="5,5,204,47"/>
-</map>

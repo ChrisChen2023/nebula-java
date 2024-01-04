@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.transport.TFramedTransport.getBytesRemainingInBuffer" name="com.facebook.thrift.transport.TFramedTransport.getBytesRemainingInBuffer">
-<area shape="rect" id="node1" title="Get the number of bytes remaining in the underlying buffer." alt="" coords="5,5,276,61"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html#ac13badf667107790e3c1991281bb20f0" title="Get the number of bytes remaining in the underlying buffer." alt="" coords="324,5,633,61"/>
-</map>
