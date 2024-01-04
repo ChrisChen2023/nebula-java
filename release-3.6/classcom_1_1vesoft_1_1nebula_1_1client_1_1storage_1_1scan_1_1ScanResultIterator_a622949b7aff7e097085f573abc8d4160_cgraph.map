@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.client.storage.scan.ScanResultIterator.freshLeader" name="com.vesoft.nebula.client.storage.scan.ScanResultIterator.freshLeader">
+<area shape="rect" id="node1" title="fresh leader for part" alt="" coords="5,5,279,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#a744aee6d275d56287134fad10855599f" title="cache new leader for part" alt="" coords="327,5,551,47"/>
+</map>

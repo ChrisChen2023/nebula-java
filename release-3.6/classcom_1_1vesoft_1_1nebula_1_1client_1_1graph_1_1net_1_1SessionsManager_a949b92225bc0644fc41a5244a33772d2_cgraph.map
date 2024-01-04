@@ -1,0 +1,11 @@
+<map id="com.vesoft.nebula.client.graph.net.SessionsManager.getSessionWrapper" name="com.vesoft.nebula.client.graph.net.SessionsManager.getSessionWrapper">
+<area shape="rect" id="node1" title="getSessionWrapper: return a SessionWrapper from sessionManager, the SessionWrapper couldn&#39;t use by mu..." alt="" coords="5,136,271,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1Session.html#a8f2a0fa3a9c840a63a5c63a1681fe99a" title="Execute the nGql sentence." alt="" coords="323,37,575,79"/>
+<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#a1252034f5423a5241ea229d03c27061e" title="get the error message of the execute result" alt="" coords="319,103,579,144"/>
+<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1NebulaPool.html#a34d15b0dc71d3c9df01f723d34c42375" title="get a session from the NebulaPool" alt="" coords="323,168,575,209"/>
+<area shape="rect" id="node9" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#a6186216b0d2dda26f9aecd51c05cea81" title="the execute result is succeeded" alt="" coords="319,233,579,275"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1Session.html#a000549564bd453e9a6283c73a12ddbbc" title="Execute the nGql sentence." alt="" coords="630,37,882,79"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1NebulaPool.html#a37d162e04aa66d677117fd48992e504e" title="Update the services&#39; status when the connection is broken, it is called by Session and NebulaPool." alt="" coords="933,5,1185,47"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1Session.html#a40db311206963d31d7d3caea4cb0ab55" title="convert java value type to nebula thrift value type" alt="" coords="933,71,1185,112"/>
+<area shape="rect" id="node8" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1NebulaPool.html#a2fbfc0824f4f9b8b16ea4289a1d43728" title="Set the connection is invalidate, and the object pool will destroy it." alt="" coords="627,168,885,209"/>
+</map>

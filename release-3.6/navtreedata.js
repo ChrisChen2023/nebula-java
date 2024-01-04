@@ -24,12 +24,29 @@
 */
 var NAVTREE =
 [
-  [ "NebulaGraph Java Client", "index.html", ]
+  [ "NebulaGraph Java Client", "index.html", [
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Variables", "functions_vars.html", null ]
+      ] ]
+    ] ],
+    [ "Files", "files.html", [
+      [ "File List", "files.html", "files_dup" ]
+    ] ]
+  ] ]
 ];
 
 var NAVTREEINDEX =
 [
-"index.html"
+"AbstractMetaClient_8java_source.html",
+"classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1PathWrapper.html",
+"classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#a3b273c5fc1b45124cf04a74afa59206b",
+"functions_h.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

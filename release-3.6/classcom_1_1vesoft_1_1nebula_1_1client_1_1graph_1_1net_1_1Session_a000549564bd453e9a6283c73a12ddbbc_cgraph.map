@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.client.graph.net.Session.executeWithParameter" name="com.vesoft.nebula.client.graph.net.Session.executeWithParameter">
+<area shape="rect" id="node1" title="Execute the nGql sentence." alt="" coords="5,39,257,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1NebulaPool.html#a37d162e04aa66d677117fd48992e504e" title="Update the services&#39; status when the connection is broken, it is called by Session and NebulaPool." alt="" coords="305,5,557,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1Session.html#a40db311206963d31d7d3caea4cb0ab55" title="convert java value type to nebula thrift value type" alt="" coords="305,71,557,112"/>
+</map>
