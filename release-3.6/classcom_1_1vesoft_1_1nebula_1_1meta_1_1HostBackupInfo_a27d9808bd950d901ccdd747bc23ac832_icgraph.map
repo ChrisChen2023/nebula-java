@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.meta.HostBackupInfo.read" name="com.vesoft.nebula.meta.HostBackupInfo.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="555,5,769,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1SpaceBackupInfo.html#ae9ea024e8336cae97929c6794d77119d" title="Reads the TObject from the given input protocol." alt="" coords="284,5,507,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1BackupMeta.html#a88df785522b4402cc93682bb772d9c26" title="Reads the TObject from the given input protocol." alt="" coords="5,5,236,47"/>
+</map>

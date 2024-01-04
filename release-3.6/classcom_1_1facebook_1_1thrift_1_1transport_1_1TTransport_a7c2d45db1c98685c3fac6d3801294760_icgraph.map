@@ -1,0 +1,11 @@
+<map id="com.facebook.thrift.transport.TTransport.getBuffer" name="com.facebook.thrift.transport.TTransport.getBuffer">
+<area shape="rect" id="node1" title="Access the protocol&#39;s underlying buffer directly." alt="" coords="859,203,1075,244"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a07f9e0db8f0ce280760fb66843b00b77" title="Read a single byte off the wire." alt="" coords="600,153,811,195"/>
+<area shape="rect" id="node9" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#aafb575a3fba3fa7201ffc3ef0de6eb9d" title="Reads a byte[] (via readBinary), and then UTF&#45;8 decodes it." alt="" coords="600,235,811,276"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a198c3b87c87056b3aec68710e5ef16d2" title="Read a boolean off the wire." alt="" coords="313,5,523,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#abd82acfcfce775820a2a76a097426227" title="Read a field header off the wire." alt="" coords="297,71,539,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#aa51a93564dbafc337fcbcf56c1cbe0bf" title="Read a list header off the wire." alt="" coords="301,136,535,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a9252c447a5a4aa0394b879de76e0284b" title="Read a map header off the wire." alt="" coords="299,201,537,243"/>
+<area shape="rect" id="node8" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a5cb028967dd02464bb8b2108c916af75" title="Read a message header." alt="" coords="284,267,552,308"/>
+<area shape="rect" id="node6" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a9112c2ef602c653f17fd8eed0cc93690" title="Read a set header off the wire." alt="" coords="5,136,236,177"/>
+</map>

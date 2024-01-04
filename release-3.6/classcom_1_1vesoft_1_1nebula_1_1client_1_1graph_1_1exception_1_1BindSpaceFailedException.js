@@ -1,0 +1,4 @@
+var classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1exception_1_1BindSpaceFailedException =
+[
+    [ "BindSpaceFailedException", "classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1exception_1_1BindSpaceFailedException.html#a977a18c8f94d2b17764c60ce71c93960", null ]
+];

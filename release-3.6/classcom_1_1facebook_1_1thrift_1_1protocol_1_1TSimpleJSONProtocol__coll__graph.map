@@ -1,0 +1,7 @@
+<map id="com.facebook.thrift.protocol.TSimpleJSONProtocol" name="com.facebook.thrift.protocol.TSimpleJSONProtocol">
+<area shape="rect" id="node1" title="JSON protocol implementation for thrift." alt="" coords="756,71,967,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html" title="Protocol interface definition." alt="" coords="340,5,551,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TSimpleJSONProtocol_1_1Context.html" title=" " alt="" coords="338,71,553,112"/>
+<area shape="rect" id="node5" title=" " alt="" coords="315,136,576,177"/>
+</map>

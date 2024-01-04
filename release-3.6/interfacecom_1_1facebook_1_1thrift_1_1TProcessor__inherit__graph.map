@@ -1,0 +1,10 @@
+<map id="com.facebook.thrift.TProcessor" name="com.facebook.thrift.TProcessor">
+<area shape="rect" id="node1" title="A processor is a generic object which operates upon an input stream and writes to some output stream." alt="" coords="5,195,229,221"/>
+<area shape="rect" id="node2" title=" " alt="" coords="307,5,485,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1TMultiplexedProcessor.html" title="TMultiplexedProcessor is a TProcessor allowing a single TServer &#160;to provide multiple services." alt="" coords="277,57,515,98"/>
+<area shape="rect" id="node4" title=" " alt="" coords="303,122,489,163"/>
+<area shape="rect" id="node5" title=" " alt="" coords="287,187,505,229"/>
+<area shape="rect" id="node6" title=" " alt="" coords="283,253,509,294"/>
+<area shape="rect" id="node7" title=" " alt="" coords="277,318,515,359"/>
+<area shape="rect" id="node8" title=" " alt="" coords="281,383,511,425"/>
+</map>

@@ -1,0 +1,28 @@
+var classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag =
+[
+    [ "NewTag", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#af68642b472ae0c63aa9f8fb2202e4dfb", null ],
+    [ "NewTag", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a3da29c0946c1f00989c22d9faa63180f", null ],
+    [ "NewTag", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#ae66a13ea4148ceb1ec53d7055d4d39a2", null ],
+    [ "deepCopy", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a2d8db6c602b286662a53a5a10efda476", null ],
+    [ "equals", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#abe1f15044a1b817c65c1d19fd0511c64", null ],
+    [ "getFieldValue", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a0f1c048777951f93110b9bd566ffb779", null ],
+    [ "getProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#ac9ad1eceb3dea4dc011895aa719696a0", null ],
+    [ "getTag_id", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a2dfd366a7a63d18dc0441ff5f276386a", null ],
+    [ "hashCode", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a7a512352c0bb5c701387379bd55e928d", null ],
+    [ "isSetProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a8d129d7fb1e6bce3bc0e9c23c5499a90", null ],
+    [ "isSetTag_id", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#ab64a114763e9a8b2b768fb1defabd344", null ],
+    [ "read", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#aea05c05532961e0e23db6fe58404a03b", null ],
+    [ "setFieldValue", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a80ad841cc8b9b5584ac99bfd97f69a5c", null ],
+    [ "setProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a2f8d8eb8377e41a8c6f6ccc1e13d1380", null ],
+    [ "setPropsIsSet", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a1706fd10f3c208a4f97647a56aa96a76", null ],
+    [ "setTag_id", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#aec1cffa5356435fd0b1ccff1daf60f2a", null ],
+    [ "setTag_idIsSet", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#ad3133a82ebdc9f0336af41800755ea22", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a938f4bc564c8fda5811ca0452c6b5aa7", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a7da3087ffa796c4dca137f46ee38411c", null ],
+    [ "unsetProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#ac1918a6979d6251fc52e07d90f43079d", null ],
+    [ "unsetTag_id", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a0b714b7c67d568af8736e83e577701be", null ],
+    [ "validate", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a9325e84d9a742dda832414ffcbd25adf", null ],
+    [ "write", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a6ac7b01cf1c9ad70df6c4176c3b0006b", null ],
+    [ "props", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#a6f14b88d09aebc716b252b5b3ec34110", null ],
+    [ "tag_id", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#aa0e199d8d357a7d04b62349b501b38fa", null ]
+];

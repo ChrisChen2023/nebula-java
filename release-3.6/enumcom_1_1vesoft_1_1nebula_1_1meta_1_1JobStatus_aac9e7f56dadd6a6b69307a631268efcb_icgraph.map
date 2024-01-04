@@ -1,0 +1,7 @@
+<map id="com.vesoft.nebula.meta.JobStatus.findByValue" name="com.vesoft.nebula.meta.JobStatus.findByValue">
+<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="545,71,749,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1JobDesc.html#a6a981cd7b5e6468372376e851eba7f03" title="Reads the TObject from the given input protocol." alt="" coords="287,5,491,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1StatsItem.html#a0eec1680495d62725fbc6df854b3b0c1" title="Reads the TObject from the given input protocol." alt="" coords="280,71,497,112"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1TaskDesc.html#a7c70859f07cb06333b1bdfba59286b75" title="Reads the TObject from the given input protocol." alt="" coords="282,136,495,177"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AdminJobResult.html#a6b1972e5b868fa27805c4f662ea1caaa" title="Reads the TObject from the given input protocol." alt="" coords="5,71,232,112"/>
+</map>

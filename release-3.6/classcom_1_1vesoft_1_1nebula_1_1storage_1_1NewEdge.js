@@ -1,0 +1,28 @@
+var classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge =
+[
+    [ "NewEdge", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#ae3dea05adcc80afff9398592e4bb8b94", null ],
+    [ "NewEdge", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a608fda82df376fae72838eb62ea425b0", null ],
+    [ "NewEdge", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a835e82923de1f80904cf7444b10edcf1", null ],
+    [ "deepCopy", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aeb2faddec52f11b5b4d8f6a5452f980d", null ],
+    [ "equals", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#abb5fb2985e341bd5c9a6580399b5fb8b", null ],
+    [ "getFieldValue", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a5080da874e7bd89fff52100894eba165", null ],
+    [ "getKey", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#ac2d890a146a424e712cc2a832ff769d1", null ],
+    [ "getProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a1d0659d8d52dba01a576f0ecae67a86d", null ],
+    [ "hashCode", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aaf869408ac294575ebaf28c782a09412", null ],
+    [ "isSetKey", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#ad51efc1b2d1f66273a4db356520d7123", null ],
+    [ "isSetProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a0d848bb847f49c82c5ce9ac9bf021e6e", null ],
+    [ "read", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aa10e682ebc0081f09c9c199bce975121", null ],
+    [ "setFieldValue", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a829366b287a4ab8b7a80f7cf2815e74d", null ],
+    [ "setKey", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aa05a51ba86caa87c0298cb0187fcbefc", null ],
+    [ "setKeyIsSet", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a09a59d2c91a691e6693450437e59e86b", null ],
+    [ "setProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a675e53f9c2a453f9c3f46b9b0e115e74", null ],
+    [ "setPropsIsSet", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#afa82e38b18519a17cb659d65410ca8e0", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a937b5247631c4cccd2682b0a9c93ed30", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a33155b79dc9b99c08b4bfc522725dd33", null ],
+    [ "unsetKey", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#adf77ca44f64761c4737d14cc8902ee5c", null ],
+    [ "unsetProps", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#ae1ae11dcb9c3286d8333a963b9eb237d", null ],
+    [ "validate", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aeceb60629d947871192a1bc3431dc641", null ],
+    [ "write", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#a6f69901e94de180e72e0836752b9abea", null ],
+    [ "key", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#adff26a8115429a3566e94c2bebc8a69c", null ],
+    [ "props", "classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#afa00ac7e68563e5fb328cae9d2f8078c", null ]
+];

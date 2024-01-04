@@ -1,0 +1,6 @@
+<map id="com.facebook.thrift.protocol.THeaderProtocol.notifyEndpoint" name="com.facebook.thrift.protocol.THeaderProtocol.notifyEndpoint">
+<area shape="rect" id="node1" title="Reading methods." alt="" coords="5,39,233,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html#aa79f7fec0afebbcdbe7cbfbcb4b17ee8" title="Flush any pending data out of a transport buffer." alt="" coords="305,5,521,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1THeaderProtocol.html#ad0dc1c5516cc8e2537967be01ccd1af7" title="Writing methods." alt="" coords="281,71,544,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html#aebd13f260117b2bbab8d0f6a6f76975d" title="Writing methods." alt="" coords="592,71,807,112"/>
+</map>

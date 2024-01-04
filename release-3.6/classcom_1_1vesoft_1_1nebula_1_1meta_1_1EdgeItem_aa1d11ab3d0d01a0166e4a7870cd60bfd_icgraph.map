@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.meta.EdgeItem.read" name="com.vesoft.nebula.meta.EdgeItem.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="260,5,476,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListEdgesResp.html#a069e51a8a2d70475c3cbf84e5f981b9b" title="Reads the TObject from the given input protocol." alt="" coords="5,5,212,47"/>
+</map>

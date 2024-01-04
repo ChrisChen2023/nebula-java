@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classcom_1_1facebook_1_1thrift_1_1TProcessorEventHandler.html" title="An event handler for a TProcessor." alt="" coords="5,39,229,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1MultipleTProcessorEventHandlers.html" title="A class which wraps multiple TProcessorEventHandler objects." alt="" coords="277,5,484,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1UserExceptionHandler.html" title=" " alt="" coords="289,71,472,112"/>
+</map>

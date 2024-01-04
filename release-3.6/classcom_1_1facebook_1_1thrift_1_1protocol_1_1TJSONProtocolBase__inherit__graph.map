@@ -1,0 +1,6 @@
+<map id="com.facebook.thrift.protocol.TJSONProtocolBase" name="com.facebook.thrift.protocol.TJSONProtocolBase">
+<area shape="rect" id="node1" title="Base class for full and brief JSON protocols." alt="" coords="264,39,475,80"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactJSONProtocol.html" title="Compact JSON protocol." alt="" coords="523,5,733,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TJSONProtocol.html" title="JSON protocol implementation for thrift." alt="" coords="523,71,733,112"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html" title="Protocol interface definition." alt="" coords="5,39,216,80"/>
+</map>

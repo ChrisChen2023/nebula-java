@@ -1,0 +1,7 @@
+<map id="com.vesoft.nebula.client.meta.TestMetaManager" name="com.vesoft.nebula.client.meta.TestMetaManager">
+<area shape="rect" id="node1" title=" " alt="" coords="5,200,229,241"/>
+<area shape="rect" id="node2" title=" " alt="" coords="23,103,103,130"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html" title="MetaManager is a manager for meta info, such as spaces,tags and edges." alt="" coords="127,96,351,137"/>
+<area shape="rect" id="node4" href="$interfacecom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaCache.html" title=" " alt="" coords="33,5,257,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="281,13,380,39"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="com.vesoft.nebula.storage.ScanEdgeRequest" name="com.vesoft.nebula.storage.ScanEdgeRequest">
+<area shape="rect" id="node1" title=" " alt="" coords="991,196,1189,237"/>
+<area shape="rect" id="node2" href="$interfacecom_1_1facebook_1_1thrift_1_1TBase.html" title="Generic base interface for generated Thrift objects." alt="" coords="178,69,371,95"/>
+<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1RequestCommon.html" title=" " alt="" coords="590,112,789,153"/>
+<area shape="rect" id="node3" title=" " alt="" coords="5,69,104,95"/>
+<area shape="rect" id="node4" title=" " alt="" coords="201,6,348,33"/>
+<area shape="rect" id="node5" title=" " alt="" coords="231,190,318,217"/>
+<area shape="rect" id="node6" title=" " alt="" coords="566,178,813,205"/>
+<area shape="rect" id="node8" title=" " alt="" coords="153,127,396,154"/>
+<area shape="rect" id="node9" title=" " alt="" coords="160,254,389,281"/>
+<area shape="rect" id="node10" title=" " alt="" coords="571,343,808,384"/>
+<area shape="rect" id="node11" title=" " alt="" coords="541,408,837,449"/>
+</map>

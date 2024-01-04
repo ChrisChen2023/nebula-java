@@ -1,0 +1,5 @@
+<map id="com.facebook.thrift.protocol.TCompactProtocol.writeCollectionBegin" name="com.facebook.thrift.protocol.TCompactProtocol.writeCollectionBegin">
+<area shape="rect" id="node1" title="Abstract method for writing the start of lists and sets." alt="" coords="291,39,569,80"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#ad8e55dcc5aad8ca5d954c628954d4582" title="Write a list header." alt="" coords="5,5,243,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a9acf25a6f71b3ac6df9e70738112c372" title="Write a set header." alt="" coords="7,71,241,112"/>
+</map>

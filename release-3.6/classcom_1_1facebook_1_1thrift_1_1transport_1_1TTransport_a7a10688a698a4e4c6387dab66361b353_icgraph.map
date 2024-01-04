@@ -1,0 +1,7 @@
+<map id="com.facebook.thrift.transport.TTransport.write" name="com.facebook.thrift.transport.TTransport.write">
+<area shape="rect" id="node1" title="Writes the buffer to the output." alt="" coords="345,104,561,145"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TFramedTransport.html#adff94beef1195af5726eff64ecabc415" title="Flush any pending data out of a transport buffer." alt="" coords="43,5,259,47"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#a343a5ad37406690efeb9497a901fe4c6" title="Write a double to the wire as 8 bytes." alt="" coords="40,71,263,112"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TCompactProtocol.html#abff5923b1f59d6bfd81e02ac74d11179" title="Write a float to the wire as 4 bytes." alt="" coords="46,136,257,177"/>
+<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TSimpleJSONProtocol.html#a1efba1db8eebe1ff9b4bcbee464494a7" title="Writing methods." alt="" coords="5,201,297,243"/>
+</map>

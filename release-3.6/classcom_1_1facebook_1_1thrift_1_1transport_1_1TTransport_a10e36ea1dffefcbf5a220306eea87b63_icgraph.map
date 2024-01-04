@@ -1,0 +1,11 @@
+<map id="com.facebook.thrift.transport.TTransport.isOpen" name="com.facebook.thrift.transport.TTransport.isOpen">
+<area shape="rect" id="node1" title="Queries whether the transport is open." alt="" coords="1433,104,1649,145"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TFramedTransport.html#a900454f5da57182a4b9c39044db03dfd" title="Queries whether the transport is open." alt="" coords="1148,39,1364,80"/>
+<area shape="rect" id="node8" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html#a25b60106700da6ebe9957274ad1e2c7e" title="Is there more data to be read?" alt="" coords="1148,104,1364,145"/>
+<area shape="rect" id="node9" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1example_1_1TThreadPoolServer.html#a2846a03c1a1e970a553a9adedbe299e9" title="The run method fires up the server and gets things going." alt="" coords="1127,169,1385,211"/>
+<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaClient.html#a5651fabaee7c565dafc3f6f38e2f1596" title="close transport" alt="" coords="855,39,1079,80"/>
+<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#afa0219702494ab70210d9209689bc61d" title="close meta client" alt="" coords="583,39,807,80"/>
+<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a7a2673c4a7c4f38a40143a2b0edd1226" title="release storage client" alt="" coords="296,39,535,80"/>
+<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1examples_1_1StorageClientExample.html#a9a90413a59c0868850765f3673c84cba" title="Edge Friend&#39;s property in Nebula Graph: degree 1.0." alt="" coords="10,5,243,47"/>
+<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1examples_1_1StorageClientExample.html#ac9cc866712cc6de0e7bffedf8775b7e2" title="Vertex Person&#39;s property in Nebula Graph: first_name, last_name, gender, birthday Tom Li 男 2010." alt="" coords="5,71,248,112"/>
+</map>

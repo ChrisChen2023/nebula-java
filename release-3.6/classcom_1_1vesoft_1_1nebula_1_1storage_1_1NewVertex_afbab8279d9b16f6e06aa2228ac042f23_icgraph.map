@@ -1,0 +1,4 @@
+<map id="com.vesoft.nebula.storage.NewVertex.read" name="com.vesoft.nebula.storage.NewVertex.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="252,5,451,47"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1AddVerticesRequest.html#ab783342062dc26cdf2f64bb9a9934ad3" title="Reads the TObject from the given input protocol." alt="" coords="5,5,204,47"/>
+</map>

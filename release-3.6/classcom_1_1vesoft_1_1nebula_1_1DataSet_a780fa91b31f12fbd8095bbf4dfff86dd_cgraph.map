@@ -1,0 +1,5 @@
+<map id="com.vesoft.nebula.DataSet.read" name="com.vesoft.nebula.DataSet.read">
+<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,31,236,57"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1Row.html#ae4bd413bc4535276c6e745fd60c8fc24" title="Reads the TObject from the given input protocol." alt="" coords="284,5,491,32"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="539,23,749,65"/>
+</map>

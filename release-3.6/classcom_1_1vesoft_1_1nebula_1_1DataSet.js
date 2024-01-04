@@ -1,0 +1,28 @@
+var classcom_1_1vesoft_1_1nebula_1_1DataSet =
+[
+    [ "DataSet", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#aebde21528a344415ab92ebd244b71ca6", null ],
+    [ "DataSet", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a00338b2bb34c3e78c4403ce92410492b", null ],
+    [ "DataSet", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a49c68daacd7e2c25cb3e9563d9472479", null ],
+    [ "deepCopy", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#ac270642622a76c2cb2bde27c7935dd38", null ],
+    [ "equals", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a5cbccc291180dcccb5c40a0c9e73fead", null ],
+    [ "getColumn_names", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a8d767d15f67393801decc5ae4dd87bd4", null ],
+    [ "getFieldValue", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#ab008ee641644f6307b0b7ee9268edaf9", null ],
+    [ "getRows", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a0e57b4c5b25f8f919dc6c1fa39b63402", null ],
+    [ "hashCode", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a3696a4c9efda20ce5c2ca30066034848", null ],
+    [ "isSetColumn_names", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a692cfc181f8fee9bc1488e028adf187f", null ],
+    [ "isSetRows", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#ab776b2437f9dcc5406beea2df67340cd", null ],
+    [ "read", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a780fa91b31f12fbd8095bbf4dfff86dd", null ],
+    [ "setColumn_names", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#af07040187675a3ab1aa43bf089d80c6f", null ],
+    [ "setColumn_namesIsSet", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#ae81ac248930f201cf6cf5be6baa35e43", null ],
+    [ "setFieldValue", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#acff4338a5a93dcfb6885e22cbc3da66c", null ],
+    [ "setRows", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a750d89365e4874d116a4e38e03c32253", null ],
+    [ "setRowsIsSet", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#aa1f3601a885ddcaaff78dc42cf9eb5b8", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#abb34aff80a42f68a673609cb96c35de7", null ],
+    [ "toString", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a6f389097e615dec87e3ef5923b2c49b1", null ],
+    [ "unsetColumn_names", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a8232376882527bbe041a5bae659c32a7", null ],
+    [ "unsetRows", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a8158ec1b9476562a8aa5ba10aaa94f06", null ],
+    [ "validate", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a417ea5220acde702fcfe81ef4eef8af5", null ],
+    [ "write", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a8d5f7d75c09353a49a74ed4b5056a1f4", null ],
+    [ "column_names", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#a3fb022f1336dac387452614b281e7266", null ],
+    [ "rows", "classcom_1_1vesoft_1_1nebula_1_1DataSet.html#ac76695aa06f8662fbf44783ff5ead6db", null ]
+];

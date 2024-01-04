@@ -1,0 +1,10 @@
+<map id="com.facebook.thrift.protocol.TCompactJSONProtocol" name="com.facebook.thrift.protocol.TCompactJSONProtocol">
+<area shape="rect" id="node1" title="Compact JSON protocol." alt="" coords="1055,136,1265,177"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TJSONProtocolBase.html" title="Base class for full and brief JSON protocols." alt="" coords="795,136,1005,177"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocol.html" title="Protocol interface definition." alt="" coords="350,5,561,47"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,5,221,47"/>
+<area shape="rect" id="node5" title=" " alt="" coords="315,71,596,112"/>
+<area shape="rect" id="node6" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TStruct.html" title="Helper class that encapsulates struct metadata." alt="" coords="350,136,561,177"/>
+<area shape="rect" id="node7" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TJSONProtocolBase_1_1JSONBaseContext.html" title=" " alt="" coords="322,201,589,243"/>
+<area shape="rect" id="node8" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TJSONProtocolBase_1_1LookaheadReader.html" title=" " alt="" coords="322,267,589,308"/>
+</map>

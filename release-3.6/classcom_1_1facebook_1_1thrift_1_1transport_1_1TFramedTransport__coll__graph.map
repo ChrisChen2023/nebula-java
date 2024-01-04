@@ -1,0 +1,7 @@
+<map id="com.facebook.thrift.transport.TFramedTransport" name="com.facebook.thrift.transport.TFramedTransport">
+<area shape="rect" id="node1" title="TFramedTransport is a buffered TTransport that ensures a fully read message every time by prefixing m..." alt="" coords="619,35,835,76"/>
+<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,18,221,59"/>
+<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TMemoryInputTransport.html" title=" " alt="" coords="271,87,487,128"/>
+<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1TByteArrayOutputStream.html" title="Class that allows access to the underlying buf without doing deep copies on it." alt="" coords="283,152,474,194"/>
+<area shape="rect" id="node5" title=" " alt="" coords="24,160,203,186"/>
+</map>
