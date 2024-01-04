@@ -1,5 +1,5 @@
-<map id="com.vesoft.nebula.client.meta.AbstractMetaClient" name="com.vesoft.nebula.client.meta.AbstractMetaClient">
-<area shape="rect" id="node1" title=" " alt="" coords="423,86,647,127"/>
+<map id="AbstractMetaClient" name="AbstractMetaClient">
+<area shape="rect" id="node1" title=" " alt="" coords="423,93,569,120"/>
 <area shape="rect" id="node2" title=" " alt="" coords="105,5,204,32"/>
 <area shape="rect" id="node3" title=" " alt="" coords="5,57,304,98"/>
 <area shape="rect" id="node4" title=" " alt="" coords="86,123,223,149"/>

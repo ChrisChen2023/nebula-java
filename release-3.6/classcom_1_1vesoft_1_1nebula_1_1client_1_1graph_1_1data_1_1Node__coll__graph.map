@@ -1,6 +1,6 @@
-<map id="com.vesoft.nebula.client.graph.data.Node" name="com.vesoft.nebula.client.graph.data.Node">
-<area shape="rect" id="node1" title=" " alt="" coords="145,185,440,212"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1BaseDataObject.html" title=" " alt="" coords="5,81,265,123"/>
-<area shape="rect" id="node3" title=" " alt="" coords="86,5,185,32"/>
-<area shape="rect" id="node4" title=" " alt="" coords="289,89,403,115"/>
+<map id="Node" name="Node">
+<area shape="rect" id="node1" title=" " alt="" coords="149,171,205,197"/>
+<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1BaseDataObject.html" title=" " alt="" coords="5,81,132,108"/>
+<area shape="rect" id="node3" title=" " alt="" coords="19,5,118,32"/>
+<area shape="rect" id="node4" title=" " alt="" coords="156,81,269,108"/>
 </map>
