@@ -1,9 +1,0 @@
-<map id="com.facebook.thrift.async.TAsyncMethodCall" name="com.facebook.thrift.async.TAsyncMethodCall">
-<area shape="rect" id="node1" title="Encapsulates an async method call Need to generate: &#45; private void write_args(TProtocol protocol)" alt="" coords="607,140,801,181"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1async_1_1TAsyncClient.html" title=" " alt="" coords="983,111,1177,152"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1async_1_1TAsyncClientManager.html" title="Contains selector thread which transitions method call objects." alt="" coords="607,5,801,47"/>
-<area shape="rect" id="node4" href="$interfacecom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolFactory.html" title="Factory interface for constructing protocol instances." alt="" coords="599,71,809,112"/>
-<area shape="rect" id="node5" title=" " alt="" coords="329,78,428,105"/>
-<area shape="rect" id="node6" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TNonblockingTransport.html" title=" " alt="" coords="271,173,487,215"/>
-<area shape="rect" id="node7" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransport.html" title="Generic class that encapsulates the I/O layer." alt="" coords="5,173,221,215"/>
-</map>

@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.Coordinate.read" name="com.vesoft.nebula.Coordinate.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="297,31,548,57"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1LineString.html#a67fcceb3496453140e8a5b1e704af509" title="Reads the TObject from the given input protocol." alt="" coords="5,5,249,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1Polygon.html#a9c8d52e4dc854a6dd56433aee83b440d" title="Reads the TObject from the given input protocol." alt="" coords="12,56,243,83"/>
-</map>

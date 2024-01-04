@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.storage.PartitionResult.read" name="com.vesoft.nebula.storage.PartitionResult.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="252,5,451,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1ResponseCommon.html#af1e9a08d22efec02e15faac39b5c619a" title="Reads the TObject from the given input protocol." alt="" coords="5,5,204,47"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.storage.AddVerticesRequest.read" name="com.vesoft.nebula.storage.AddVerticesRequest.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,85,204,127"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewVertex.html#afbab8279d9b16f6e06aa2228ac042f23" title="Reads the TObject from the given input protocol." alt="" coords="252,56,451,97"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="745,64,956,105"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewTag.html#aea05c05532961e0e23db6fe58404a03b" title="Reads the TObject from the given input protocol." alt="" coords="499,5,697,47"/>
-</map>

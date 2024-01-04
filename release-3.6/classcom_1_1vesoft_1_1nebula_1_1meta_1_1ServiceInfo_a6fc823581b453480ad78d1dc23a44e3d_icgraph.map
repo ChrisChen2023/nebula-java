@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.meta.ServiceInfo.read" name="com.vesoft.nebula.meta.ServiceInfo.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="276,39,508,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AgentHBResp.html#a69b2757de78b1d01bbcfdf88b9fc32c2" title="Reads the TObject from the given input protocol." alt="" coords="5,5,228,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListClusterInfoResp.html#a0cd0b09179e4f32a60c805e6fcdaa83c" title="Reads the TObject from the given input protocol." alt="" coords="13,71,220,112"/>
-</map>

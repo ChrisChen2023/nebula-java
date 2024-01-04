@@ -1,9 +1,0 @@
-<map id="com.vesoft.nebula.meta.HostRole.findByValue" name="com.vesoft.nebula.meta.HostRole.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="585,57,800,98"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1HBReq.html#a7f90582aa12811002b94ddd75d027697" title="Reads the TObject from the given input protocol." alt="" coords="276,5,537,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1HostItem.html#a278b52730a75c553494ba55873cf3268" title="Reads the TObject from the given input protocol." alt="" coords="299,57,514,98"/>
-<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ServiceInfo.html#a6fc823581b453480ad78d1dc23a44e3d" title="Reads the TObject from the given input protocol." alt="" coords="291,122,523,163"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListHostsResp.html#ac580c436aa4efcaec3f3e0f6043efb9f" title="Reads the TObject from the given input protocol." alt="" coords="13,57,220,98"/>
-<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AgentHBResp.html#a69b2757de78b1d01bbcfdf88b9fc32c2" title="Reads the TObject from the given input protocol." alt="" coords="5,122,228,163"/>
-<area shape="rect" id="node7" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListClusterInfoResp.html#a0cd0b09179e4f32a60c805e6fcdaa83c" title="Reads the TObject from the given input protocol." alt="" coords="13,187,220,229"/>
-</map>

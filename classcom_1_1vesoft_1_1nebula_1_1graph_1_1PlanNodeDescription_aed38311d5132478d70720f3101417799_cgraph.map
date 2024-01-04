@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.graph.PlanNodeDescription.read" name="com.vesoft.nebula.graph.PlanNodeDescription.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,64,196,105"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1graph_1_1Pair.html#aecf40310d312c71b024b864b98b893f2" title="Reads the TObject from the given input protocol." alt="" coords="244,5,431,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="479,64,689,105"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1graph_1_1ProfilingStats.html#adfea33e8bc04bc5f68963a54aa2475f9" title="Reads the TObject from the given input protocol." alt="" coords="244,123,431,164"/>
-</map>

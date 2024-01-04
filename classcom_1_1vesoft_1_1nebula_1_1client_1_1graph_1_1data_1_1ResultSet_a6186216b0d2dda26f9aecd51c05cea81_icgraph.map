@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.client.graph.data.ResultSet.isSucceeded" name="com.vesoft.nebula.client.graph.data.ResultSet.isSucceeded">
-<area shape="rect" id="node1" title="the execute result is succeeded" alt="" coords="672,64,932,105"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1SessionPool.html#a98cd58ba8eb81be173d707ccf9051d7c" title="Execute the nGql sentence." alt="" coords="378,5,605,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1TestSessionPool.html#a493ede14a324e312cef95d41535262c9" title="for restart stroaged, large the interval time for retry." alt="" coords="5,35,311,76"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1net_1_1SessionsManager.html#a949b92225bc0644fc41a5244a33772d2" title="getSessionWrapper: return a SessionWrapper from sessionManager, the SessionWrapper couldn&#39;t use by mu..." alt="" coords="359,123,624,164"/>
-</map>

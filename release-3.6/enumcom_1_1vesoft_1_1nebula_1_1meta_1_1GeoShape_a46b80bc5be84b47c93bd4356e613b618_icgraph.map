@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.meta.GeoShape.findByValue" name="com.vesoft.nebula.meta.GeoShape.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="288,5,499,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ColumnTypeDef.html#a99678e373c667a7f598e16067e4bbee5" title="Reads the TObject from the given input protocol." alt="" coords="5,5,240,47"/>
-</map>

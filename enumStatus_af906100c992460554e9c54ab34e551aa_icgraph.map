@@ -1,4 +1,0 @@
-<map id="Status.findByValue" name="Status.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="228,5,372,32"/>
-<area shape="rect" id="node2" href="$classGetStateResponse.html#a761444d54f6cec27f817e83c108bd33f" title="Reads the TObject from the given input protocol." alt="" coords="5,5,180,32"/>
-</map>

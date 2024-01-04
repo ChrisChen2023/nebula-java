@@ -1,6 +1,0 @@
-<map id="com.facebook.thrift.transport.TTransportFactory.getTransport" name="com.facebook.thrift.transport.TTransportFactory.getTransport">
-<area shape="rect" id="node1" title="Return a wrapped instance of the base Transport." alt="" coords="644,50,864,91"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1TNonblockingServer_1_1FrameBuffer.html#a49fd88dc0be91784765b0a0b14997ae3" title="Wrap the read buffer in a memory&#45;based transport so a processor can read the data it needs to handle ..." alt="" coords="336,5,596,61"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1example_1_1TSimpleServer.html#a9a245a4ff3f63595f002a563bd48234f" title="The run method fires up the server and gets things going." alt="" coords="337,86,595,127"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1TNonblockingServer_1_1FrameBuffer.html#ace72a451066d46a39ab75bcfd132803a" title="Actually invoke the method signified by this FrameBuffer." alt="" coords="5,13,288,54"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.MultipleTProcessorEventHandlers" name="com.facebook.thrift.MultipleTProcessorEventHandlers">
-<area shape="rect" id="node1" title="A class which wraps multiple TProcessorEventHandler objects." alt="" coords="14,95,221,136"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1TProcessorEventHandler.html" title="An event handler for a TProcessor." alt="" coords="5,5,229,47"/>
-</map>

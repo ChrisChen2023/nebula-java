@@ -1,5 +1,0 @@
-<map id="AppendLogRequest.read" name="AppendLogRequest.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,31,185,57"/>
-<area shape="rect" id="node2" href="$classRaftLogEntry.html#aa48c6b7c0c441789a874c7aae82a2330" title="Reads the TObject from the given input protocol." alt="" coords="233,5,369,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="417,23,628,65"/>
-</map>

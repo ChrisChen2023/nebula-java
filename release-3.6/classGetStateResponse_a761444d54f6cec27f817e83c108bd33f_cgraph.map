@@ -1,6 +1,0 @@
-<map id="GetStateResponse.read" name="GetStateResponse.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,56,180,83"/>
-<area shape="rect" id="node2" href="$enumRole.html#a193f99452843a964cd7440fcb68ac35d" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="267,5,399,32"/>
-<area shape="rect" id="node3" href="$enumStatus.html#af906100c992460554e9c54ab34e551aa" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="261,56,405,83"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="228,107,439,149"/>
-</map>

@@ -1,7 +1,0 @@
-<map id="com.facebook.thrift.server.TServer" name="com.facebook.thrift.server.TServer">
-<area shape="rect" id="node1" title="Generic interface for a Thrift server." alt="" coords="5,71,203,112"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1TNonblockingServer.html" title="A nonblocking TServer implementation." alt="" coords="281,5,479,47"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1example_1_1TSimpleServer.html" title=" " alt="" coords="251,71,509,112"/>
-<area shape="rect" id="node5" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1example_1_1TThreadPoolServer.html" title=" " alt="" coords="251,136,509,177"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1server_1_1THsHaServer.html" title="An extension of the TNonblockingServer to a Half&#45;Sync/Half&#45;Async server." alt="" coords="557,5,755,47"/>
-</map>

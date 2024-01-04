@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.meta.ConfigItem.read" name="com.vesoft.nebula.meta.ConfigItem.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="263,71,488,112"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1GetConfigResp.html#a6be1d0d0e898327a55c3eb4d868600ef" title="Reads the TObject from the given input protocol." alt="" coords="7,5,213,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListConfigsResp.html#a25fede87485d47d4e87436eb46e1bd7a" title="Reads the TObject from the given input protocol." alt="" coords="7,71,213,112"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1RegConfigReq.html#adefe68e2063da115d192ce5cfb14cbc7" title="Reads the TObject from the given input protocol." alt="" coords="5,136,215,177"/>
-</map>

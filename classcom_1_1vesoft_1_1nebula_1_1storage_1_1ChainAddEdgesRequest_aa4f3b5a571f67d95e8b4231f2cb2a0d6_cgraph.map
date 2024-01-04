@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.storage.ChainAddEdgesRequest.read" name="com.vesoft.nebula.storage.ChainAddEdgesRequest.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,35,215,76"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1NewEdge.html#aa10e682ebc0081f09c9c199bce975121" title="Reads the TObject from the given input protocol." alt="" coords="263,5,461,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="509,35,720,76"/>
-</map>

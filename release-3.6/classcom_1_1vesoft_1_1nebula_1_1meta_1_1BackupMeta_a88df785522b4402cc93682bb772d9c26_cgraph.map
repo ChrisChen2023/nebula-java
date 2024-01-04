@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.meta.BackupMeta.read" name="com.vesoft.nebula.meta.BackupMeta.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,85,236,127"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1SpaceBackupInfo.html#ae9ea024e8336cae97929c6794d77119d" title="Reads the TObject from the given input protocol." alt="" coords="284,56,507,97"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="817,64,1028,105"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1HostBackupInfo.html#a27d9808bd950d901ccdd747bc23ac832" title="Reads the TObject from the given input protocol." alt="" coords="555,5,769,47"/>
-</map>

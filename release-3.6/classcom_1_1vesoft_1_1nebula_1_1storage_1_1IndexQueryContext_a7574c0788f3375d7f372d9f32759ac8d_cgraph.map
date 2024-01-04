@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.storage.IndexQueryContext.read" name="com.vesoft.nebula.storage.IndexQueryContext.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,41,204,83"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1storage_1_1IndexColumnHint.html#a71e89b597d934e9658fadea94e0bff3c" title="Reads the TObject from the given input protocol." alt="" coords="252,12,451,53"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="499,71,709,112"/>
-<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1storage_1_1ScanType.html#adf72e48b76d5e2a82c4e6bef532a4157" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="505,5,703,47"/>
-</map>

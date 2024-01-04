@@ -1,6 +1,0 @@
-<map id="com.vesoft.nebula.meta.HostItem.read" name="com.vesoft.nebula.meta.HostItem.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,71,220,112"/>
-<area shape="rect" id="node2" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1HostRole.html#a90ca4609d4d43f108a0691add5f6fc70" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="268,5,483,47"/>
-<area shape="rect" id="node3" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1HostStatus.html#a6e13849c6736522d0681a07c8bea3c12" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="268,71,483,112"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="270,136,481,177"/>
-</map>

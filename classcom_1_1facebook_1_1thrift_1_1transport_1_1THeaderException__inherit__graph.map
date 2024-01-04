@@ -1,6 +1,0 @@
-<map id="com.facebook.thrift.transport.THeaderException" name="com.facebook.thrift.transport.THeaderException">
-<area shape="rect" id="node1" title="Application level exception." alt="" coords="10,244,226,285"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TTransportException.html" title="Transport exceptions." alt="" coords="10,155,226,196"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1TException.html" title="Generic exception class for Thrift." alt="" coords="5,80,231,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="47,5,189,32"/>
-</map>

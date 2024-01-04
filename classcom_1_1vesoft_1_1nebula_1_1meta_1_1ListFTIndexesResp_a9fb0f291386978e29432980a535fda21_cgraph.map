@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.meta.ListFTIndexesResp.read" name="com.vesoft.nebula.meta.ListFTIndexesResp.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,23,212,65"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1FTIndex.html#a7c1131c9a10f6273c58181c1c7c10caa" title="Reads the TObject from the given input protocol." alt="" coords="260,5,528,32"/>
-<area shape="rect" id="node3" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="576,23,787,65"/>
-</map>

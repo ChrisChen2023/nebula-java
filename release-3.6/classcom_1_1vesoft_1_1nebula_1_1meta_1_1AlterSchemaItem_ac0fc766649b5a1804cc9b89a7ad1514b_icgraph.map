@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.meta.AlterSchemaItem.read" name="com.vesoft.nebula.meta.AlterSchemaItem.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="268,39,483,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterEdgeReq.html#aacca96cf16f86da7dc686ee9b4b1cf22" title="Reads the TObject from the given input protocol." alt="" coords="5,5,220,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1AlterTagReq.html#ac7de1fa1d71ea7e471257b0ace7952e5" title="Reads the TObject from the given input protocol." alt="" coords="5,71,220,112"/>
-</map>

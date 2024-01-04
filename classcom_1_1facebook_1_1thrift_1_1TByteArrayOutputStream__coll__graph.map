@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.TByteArrayOutputStream" name="com.facebook.thrift.TByteArrayOutputStream">
-<area shape="rect" id="node1" title="Class that allows access to the underlying buf without doing deep copies on it." alt="" coords="5,80,196,121"/>
-<area shape="rect" id="node2" title=" " alt="" coords="11,5,190,32"/>
-</map>

@@ -1,4 +1,0 @@
-<map id="com.facebook.thrift.async.TAsyncMethodCall.prepareMethodCall" name="com.facebook.thrift.async.TAsyncMethodCall.prepareMethodCall">
-<area shape="rect" id="node1" title="Initialize buffers." alt="" coords="5,5,276,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1facebook_1_1thrift_1_1transport_1_1TFramedTransport.html#ac631cf647817cc16f929d0f34c6fa516" title="Functions to encode/decode int32 and int16 to/from network byte order." alt="" coords="324,5,547,47"/>
-</map>

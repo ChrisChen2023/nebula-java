@@ -1,8 +1,0 @@
-<map id="com.vesoft.nebula.meta.QueryStatus.findByValue" name="com.vesoft.nebula.meta.QueryStatus.findByValue">
-<area shape="rect" id="node1" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="869,68,1092,109"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1QueryDesc.html#ad702029487116fc584a966d5ab4e8765" title="Reads the TObject from the given input protocol." alt="" coords="599,68,821,109"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1Session.html#a89fe3d42e170b9b2a4a647e8c44ebcda" title="Reads the TObject from the given input protocol." alt="" coords="284,46,551,73"/>
-<area shape="rect" id="node6" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1UpdateSessionsResp.html#abc834446b33ff854a44b51ea89c6c7b7" title="Reads the TObject from the given input protocol." alt="" coords="302,97,533,139"/>
-<area shape="rect" id="node4" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1ListSessionsResp.html#aec79fd3ee6a97ef57fb7e29a193fe378" title="Reads the TObject from the given input protocol." alt="" coords="17,5,224,47"/>
-<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1UpdateSessionsReq.html#a0c5f787e72b4d92bf2e6398f5b4e48a9" title="Reads the TObject from the given input protocol." alt="" coords="5,71,236,112"/>
-</map>

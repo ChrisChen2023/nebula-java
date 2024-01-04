@@ -1,5 +1,0 @@
-<map id="com.vesoft.nebula.client.storage.scan.ScanEdgeResultIterator.next" name="com.vesoft.nebula.client.storage.scan.ScanEdgeResultIterator.next">
-<area shape="rect" id="node1" title="get the next edge set" alt="" coords="5,39,279,80"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1scan_1_1PartScanQueue.html#a58f2b14043144115195cdb778613bd20" title="delete part from set" alt="" coords="327,5,600,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1scan_1_1PartScanQueue.html#a5e4ecfee2532570b5da648ca0f92167a" title="get part according to leader" alt="" coords="327,71,600,112"/>
-</map>

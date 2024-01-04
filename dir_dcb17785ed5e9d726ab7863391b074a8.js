@@ -1,4 +1,0 @@
-var dir_dcb17785ed5e9d726ab7863391b074a8 =
-[
-    [ "nebula", "dir_b8866cd21603222170e36651ae63f298.html", "dir_b8866cd21603222170e36651ae63f298" ]
-];

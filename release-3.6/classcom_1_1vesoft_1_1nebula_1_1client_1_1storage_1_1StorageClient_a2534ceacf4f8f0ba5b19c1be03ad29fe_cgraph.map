@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.client.storage.StorageClient.scanEdge" name="com.vesoft.nebula.client.storage.StorageClient.scanEdge">
-<area shape="rect" id="node1" title="scan edge of specific part with return cols and limit, start time, end time, if allow partial success..." alt="" coords="5,5,244,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a8292a37d7a08796eaa4ed6fd8245f01b" title="scan edge of all parts with return cols." alt="" coords="292,5,531,47"/>
-</map>

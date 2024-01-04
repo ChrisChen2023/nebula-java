@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.util.ReflectUtil.getParentTypes" name="com.vesoft.nebula.util.ReflectUtil.getParentTypes">
-<area shape="rect" id="node1" title="Get the super class and interface type collection according to paramType." alt="" coords="277,5,493,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1util_1_1ReflectUtil.html#a59dda886d57690add4a8220d7c723ac4" title="Determine whether parentType is paramType or its parent class or interface." alt="" coords="5,5,229,47"/>
-</map>

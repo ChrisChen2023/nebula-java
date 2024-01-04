@@ -1,7 +1,0 @@
-<map id="com.vesoft.nebula.meta.HBReq.read" name="com.vesoft.nebula.meta.HBReq.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="5,107,267,134"/>
-<area shape="rect" id="node2" href="$enumcom_1_1vesoft_1_1nebula_1_1meta_1_1HostRole.html#a90ca4609d4d43f108a0691add5f6fc70" title="Find a the enum type by its integer value, as defined in the Thrift IDL." alt="" coords="327,5,541,47"/>
-<area shape="rect" id="node3" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1LeaderInfo.html#a6ee723d27b811677fdb3f359d63d7d3a" title="Reads the TObject from the given input protocol." alt="" coords="320,71,548,112"/>
-<area shape="rect" id="node4" href="$classcom_1_1facebook_1_1thrift_1_1protocol_1_1TProtocolUtil.html#ae88503d9ddbc2a6f5d90f78a272e504b" title="Skips over the next data element from the provided input TProtocol object." alt="" coords="601,129,812,171"/>
-<area shape="rect" id="node5" href="$classcom_1_1vesoft_1_1nebula_1_1meta_1_1PartitionList.html#a60078f26c300e8ca202b41316268518b" title="Reads the TObject from the given input protocol." alt="" coords="315,188,553,229"/>
-</map>

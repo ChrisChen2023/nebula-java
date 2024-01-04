@@ -1,4 +1,0 @@
-<map id="com.vesoft.nebula.LogInfo.read" name="com.vesoft.nebula.LogInfo.read">
-<area shape="rect" id="node1" title="Reads the TObject from the given input protocol." alt="" coords="272,13,499,39"/>
-<area shape="rect" id="node2" href="$classcom_1_1vesoft_1_1nebula_1_1CheckpointInfo.html#ab298b50ebcabf88d21a28bbd2bb857c4" title="Reads the TObject from the given input protocol." alt="" coords="5,5,224,47"/>
-</map>
