@@ -43,10 +43,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"AbstractMetaClient_8java_source.html",
-"classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1PathWrapper.html",
-"classcom_1_1vesoft_1_1nebula_1_1client_1_1meta_1_1MetaManager.html#a5ae591df94fc66ccb85cbb6565368bca",
-"functions_h.html"
+"annotated.html",
+"d6/d11/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1data_1_1BaseTableRow.html#ab14c758db98bf887f440bc816171392b",
+"dc/df0/classcom_1_1vesoft_1_1nebula_1_1client_1_1graph_1_1data_1_1ResultSet.html#aa71d41fd3d95c354d4d5e922c6c21210",
+"functions_func_l.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
