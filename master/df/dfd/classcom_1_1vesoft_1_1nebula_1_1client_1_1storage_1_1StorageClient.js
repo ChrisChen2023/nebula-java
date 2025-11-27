@@ -38,5 +38,6 @@ var classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient =
     [ "scanVertex", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a02283ce6ccffcac4c2528c789b43b960", null ],
     [ "scanVertex", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a9d258cdfe20d7563b18cee7bed3f12b5", null ],
     [ "scanVertex", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#a621957d6fa159b54aad94960e393108c", null ],
-    [ "scanVertex", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#af81c6901ac67f4cac77250196c2004b4", null ]
+    [ "scanVertex", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#af81c6901ac67f4cac77250196c2004b4", null ],
+    [ "setStorageAddressMapping", "df/dfd/classcom_1_1vesoft_1_1nebula_1_1client_1_1storage_1_1StorageClient.html#ad9b4d993939b56e62e7960256e0967e9", null ]
 ];
